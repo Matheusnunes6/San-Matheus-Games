@@ -1,0 +1,80 @@
+body {
+    background-color: #111119;
+    color: #d9f0fc;
+    align-content: center;
+    text-align: center;
+    font-family: "Quicksand", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal;
+}
+
+img {
+    height: 60px;
+    width: 60px;
+}
+
+form {
+    height: 380px;
+    width: 340px;
+    color: #ffffff;
+    background-color: #151522;
+    border: none;
+    border-radius: 8px;
+    box-shadow: 2px 7px 14px rgb(63, 63, 128);
+}
+
+input {
+    height: 30px;
+    width: 320px;
+    background-color: rgb(24, 24, 41);
+    outline: 1px solid rgb(21, 42, 90);
+    border: none;
+    border-radius: 15px;
+    color: hsl(221.7, 39.6%, 100%);
+    font-family: "Prompt", sans-serif;
+}
+
+button {
+    height: 40px;
+    width: 240px;
+    color: hsl(293.1, 77.3%, 92.8%);
+    transition: 0.6s;
+    background-color: hsl(234, 75.8%, 57.8%);
+    border: none;
+    border-radius: 8px;
+    outline: 2px solid hsl(234, 62.6%, 46.9%);
+    font-family: "Prompt", sans-serif; /* Adicione a fonte ao botão */
+}
+
+button:hover {
+    height: 40px;
+    width: 240px;
+    color: hsl(293.1, 100%, 100%);
+    background-color: hsl(234, 86.9%, 17.3%);
+    border: none;
+    border-radius: 8px;
+    outline: 1px solid hsl(234, 43.7%, 20.5%);
+    transition: 0.5s;
+    box-shadow: 3px 9px 15px hsl(238.7, 92%, 55.8%);
+}
+
+tet {
+    color: hsl(48, 100%, 58.3%);
+}
+
+tt {
+    color: hsl(215.6, 100%, 58.3%);
+    box-shadow: 1px 6px 9px hsl(245.5, 94.8%, 54.7%)
+}
+
+ps {
+    color: hsl(271.6, 100%, 64%);
+    transition: 1s.;
+}
+
+ps:hover {
+    color: hsl(271.6, 75.3%, 25.1%);
+    transition: 1s;
+}
+l
